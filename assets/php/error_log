@@ -1,0 +1,5 @@
+[24-Feb-2024 03:42:14 UTC] PHP Notice:  Undefined variable: name in /home/oqww8ian5m2a/public_html/assets/php/form-process.php on line 49
+[24-Feb-2024 03:42:14 UTC] PHP Notice:  Undefined variable: email in /home/oqww8ian5m2a/public_html/assets/php/form-process.php on line 52
+[24-Feb-2024 03:42:14 UTC] PHP Notice:  Undefined variable: msg_subject in /home/oqww8ian5m2a/public_html/assets/php/form-process.php on line 55
+[24-Feb-2024 03:42:14 UTC] PHP Notice:  Undefined variable: phone_number in /home/oqww8ian5m2a/public_html/assets/php/form-process.php on line 58
+[24-Feb-2024 03:42:14 UTC] PHP Notice:  Undefined variable: message in /home/oqww8ian5m2a/public_html/assets/php/form-process.php on line 61
